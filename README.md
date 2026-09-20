@@ -1,2 +1,1 @@
-# terraform-aws-resources
-creating some resources for testing purpose
+# Here basic operations for creating resouces
